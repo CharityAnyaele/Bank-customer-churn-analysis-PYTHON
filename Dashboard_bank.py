@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+
 # LOAD DATA
 df = pd.read_csv('cleaned_data.csv')
 
@@ -145,3 +146,4 @@ with tab5:
         title="Correlation Matrix"
     )
     st.plotly_chart(heatmap)
+
