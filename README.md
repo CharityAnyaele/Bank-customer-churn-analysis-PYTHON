@@ -93,7 +93,7 @@ Technical Stack
 	•	Python (Pandas, NumPy, Plotly, Streamlit)
 	•	Interactive visualizations using Plotly Express
 	•	Real-time analytics dashboard built in Streamlit
-	•	Deployment ready for cloud hosting (Streamlit Cloud or Hugging Face)
+	•	Deployment ready for cloud hosting (Streamlit Cloud)
 
 Overall Contribution
 
